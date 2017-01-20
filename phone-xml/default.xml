@@ -1,0 +1,8 @@
+<flat-profile>
+<Proxy_1_ group="Ext_1/Proxy_and_Registration">10.*.*.*</Proxy_1_>
+<Display_Name_1_ group="Ext_1/Subscriber_Information">tel</Display_Name_1_>
+<User_ID_1_ group="Ext_1/Subscriber_Information">tel</User_ID_1_>
+<Password_1_ group="Ext_1/Subscriber_Information">password</Password_1_>
+<Auth_ID_1_ group="Ext_1/Subscriber_Information">tel</Auth_ID_1_>
+<Station_Name group="Phone/General">test</Station_Name>
+</flat-profile>
